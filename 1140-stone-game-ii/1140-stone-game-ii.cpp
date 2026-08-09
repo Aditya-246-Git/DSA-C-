@@ -1,26 +1,42 @@
 class Solution {
 public:
-    int f(int i, int M, vector<int>& piles,vector<vector<int>> &dp) {
-        int n = piles.size();
-        if (i >= n)
-            return 0;
-        if(dp[i][M]!=-1) return dp[i][M];
-        int total = 0;
-        for (int j = i; j < n; j++) {
-            total += piles[j];
-        }
-        int ans = 0;
-        for (int X = 1; X <= 2 * M && i + X <= n; X++) {
-            int opponent = f(i + X, max(M, X), piles,dp);
-            int current = total - opponent;
 
-            ans = max(ans, current);
-        }
-        return dp[i][M]=ans;
-    }
     int stoneGameII(vector<int>& piles) {
-        int n=piles.size();
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        return f(0, 1, piles,dp);
+
+        int n = piles.size();
+
+        // suffix[i] = stones from i to n-1
+        vector<int> suffix(n + 1, 0);
+
+        for (int i = n - 1; i >= 0; i--) {
+            suffix[i] = suffix[i + 1] + piles[i];
+        }
+
+        // dp[i][M]
+        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+
+        // i = n is already 0
+        // dp[n][M] = 0
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            for (int M = n; M >= 1; M--) {
+
+                int ans = 0;
+
+                for (int X = 1; X <= 2 * M && i + X <= n; X++) {
+
+                    int opponent = dp[i + X][max(M, X)];
+
+                    int current = suffix[i] - opponent;
+
+                    ans = max(ans, current);
+                }
+
+                dp[i][M] = ans;
+            }
+        }
+
+        return dp[0][1];
     }
 };
