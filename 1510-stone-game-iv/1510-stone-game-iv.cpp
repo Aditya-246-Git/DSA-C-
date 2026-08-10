@@ -1,19 +1,22 @@
 class Solution {
 public:
-    bool f(int n,vector<int> &dp){
-    if (n == 0)
-        return false;
-    if(dp[n]!=-1) return dp[n];
-    for (int i = 1; i * i <= n; i++){
-        int square = i * i;
-        if (!f(n - square,dp))
-            return dp[n]=true;
-    }
-
-    return dp[n]=false;
-}
     bool winnerSquareGame(int n) {
-      vector<int> dp(n+1,-1);
-      return f(n,dp);  
+
+        vector<int> dp1(n + 1, false);
+
+        for (int i = 1; i <= n; i++) {
+
+            for (int j = 1; j * j <= i; j++) {
+
+                int square = j * j;
+
+                if (!dp1[i - square]) {
+                    dp1[i] = true;
+                    break;
+                }
+            }
+        }
+
+        return dp1[n];
     }
 };
