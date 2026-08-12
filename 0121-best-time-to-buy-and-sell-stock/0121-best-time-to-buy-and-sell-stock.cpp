@@ -5,9 +5,8 @@ public:
        int mini=INT_MIN;
        while(j<prices.size()){
             int x=prices[j]-prices[i];
-            while(x<0){
-                i++;
-                x=prices[j]-prices[i];
+            if (x<0){
+                i=j;
             }
             mini=max(mini,x);
             j++;
