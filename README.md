@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1510-stone-game-iv) |
 ## Minimax
