@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
@@ -75,12 +76,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
