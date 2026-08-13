@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
