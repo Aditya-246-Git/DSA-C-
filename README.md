@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
