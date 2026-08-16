@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
