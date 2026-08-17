@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
