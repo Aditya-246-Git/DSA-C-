@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
