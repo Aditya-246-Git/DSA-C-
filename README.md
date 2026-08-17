@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1510-stone-game-iv) |
@@ -156,5 +158,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
