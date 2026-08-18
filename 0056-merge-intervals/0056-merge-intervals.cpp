@@ -1,31 +1,21 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    // Function to merge overlapping intervals
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        // Sort intervals based on starting time
-        sort(intervals.begin(), intervals.end());
-
-        // Vector to store final merged intervals
-        vector<vector<int>> merged;
-
-        // Traverse each interval
-        for (auto interval : intervals) {
-            // If merged is empty or current interval does not overlap
-            if (merged.empty() || merged.back()[1] < interval[0]) {
-                // Add current interval as a new non-overlapping block
-                merged.push_back(interval);
-            } else {
-                // Overlapping: merge by extending the end time
-                merged.back()[1] = max(
-                    merged.back()[1],
-                    interval[1]
-                );
-            }
+        int n=intervals.size();
+        sort(intervals.begin(),intervals.end());
+        vector<vector<int>> ans;
+        ans.push_back(intervals[0]);
+        for(int i=1;i<n;i++){
+           int s=ans.back()[1];
+           int e=intervals[i][0];
+           if(s>=e){
+            s=max(intervals[i][1],s);
+            ans.back()[1]=s;
+           } 
+           else{
+             ans.push_back(intervals[i]);
+           }
         }
-
-        return merged;
+        return ans;
     }
 };
