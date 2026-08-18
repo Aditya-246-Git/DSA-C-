@@ -6,11 +6,8 @@ public:
         vector<vector<int>> ans;
         ans.push_back(intervals[0]);
         for(int i=1;i<n;i++){
-           int s=ans.back()[1];
-           int e=intervals[i][0];
-           if(s>=e){
-            s=max(intervals[i][1],s);
-            ans.back()[1]=s;
+           if(ans.back()[1]>=intervals[i][0]){
+            ans.back()[1]=max(intervals[i][1],ans.back()[1]);
            } 
            else{
              ans.push_back(intervals[i]);
