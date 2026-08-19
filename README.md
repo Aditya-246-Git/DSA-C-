@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -173,4 +174,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
