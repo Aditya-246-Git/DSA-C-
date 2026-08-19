@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0053-maximum-subarray) |
@@ -177,5 +178,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
