@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0875-koko-eating-bananas) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -190,4 +191,5 @@
 | [0162-find-peak-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
