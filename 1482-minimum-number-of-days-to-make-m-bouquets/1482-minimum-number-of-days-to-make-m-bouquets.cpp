@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool f(vector<int>& bloomDay, int m, int k,int n,int day){
+    bool f(vector<int>& bloomDay, int m, int k,int day){
       int count = 0;
       int bouquets=0;
       for(auto i:bloomDay) {
@@ -10,12 +10,13 @@ public:
             bouquets++;
             count = 0;
            }
+           if(bouquets==m) return true;
          }
            else {
              count = 0;
            }
        }
-       return bouquets>=m;
+       return false;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
@@ -24,7 +25,7 @@ public:
         if(1L*m*k>n) return -1;
         while(low<=high){
             mid=low+((high-low)/2);
-            if(f(bloomDay,m,k,n,mid)) high=mid-1;
+            if(f(bloomDay,m,k,mid)) high=mid-1;
             else low=mid+1;
         }
         return low;
