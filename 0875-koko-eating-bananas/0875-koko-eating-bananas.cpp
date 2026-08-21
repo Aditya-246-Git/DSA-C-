@@ -11,7 +11,7 @@ public:
             mid=low+(high-low)/2;
             long long time=0;
             for(int i=0;i<n;i++){
-                time+=ceil(1LL*(piles[i]+mid-1)/mid);
+                time+=ceil((piles[i]+mid-1)/mid);
             }
             if(time>h) low=mid+1;
             else high=mid-1;
