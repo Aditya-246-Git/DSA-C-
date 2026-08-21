@@ -7,8 +7,8 @@ public:
         while(low<=high){
             mid=low+(high-low)/2;
             long long time=0;
-            for(int i=0;i<n;i++){
-                time+=(piles[i]+mid-1)/mid;
+            for(auto i: piles){
+                time+=(i+mid-1)/mid;
             }
             if(time>h) low=mid+1;
             else high=mid-1;
