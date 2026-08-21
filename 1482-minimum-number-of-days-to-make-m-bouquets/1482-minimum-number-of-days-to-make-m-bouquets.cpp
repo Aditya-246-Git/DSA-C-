@@ -3,10 +3,9 @@ public:
     bool f(vector<int>& bloomDay, int m, int k,int n,int day){
       int count = 0;
       int bouquets=0;
-      for(int i = 0; i < n; i++) {
-         if(bloomDay[i] <= day) {
+      for(auto i:bloomDay) {
+         if(i <= day) {
             count++;
-
            if(count == k) {
             bouquets++;
             count = 0;
