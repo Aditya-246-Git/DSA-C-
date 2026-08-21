@@ -21,8 +21,7 @@ public:
         int n=bloomDay.size();
         int low=1,mid;
         int high=*max_element(bloomDay.begin(),bloomDay.end());
-        long a=1L*m*k;
-        if(a>n) return -1;
+        if(1L*m*k>n) return -1;
         while(low<=high){
             mid=low+((high-low)/2);
             if(f(bloomDay,m,k,n,mid)) high=mid-1;
