@@ -21,7 +21,7 @@ public:
             high+=i;
         }
         while(low<=high){
-            mid=low+((high-low)/2);
+            mid=(low+high)/2;
             if(f(weights,days,mid)) high=mid-1;
             else low=mid+1;
         }
