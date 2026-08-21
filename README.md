@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
@@ -73,6 +74,7 @@
 | [0118-pascals-triangle](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -83,6 +85,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0875-koko-eating-bananas) |
