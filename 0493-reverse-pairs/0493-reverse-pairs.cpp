@@ -1,9 +1,17 @@
 class Solution {
 public:
-    void merge(vector<int>& nums,int low,int mid,int high){
+    int merge(vector<int>& nums,int low,int mid,int high){
         vector<int> temp;
         int left=low;
         int right=mid+1;
+        int cnt=0;
+        for(int i=low;i<=mid;i++){
+          while(right<=high && nums[i]>1LL*2*nums[right]) right++;
+
+          cnt+=right-(mid+1);
+       }
+        left=low;
+        right=mid+1;
 
         while(left<=mid && right<=high){
             if(nums[left]<=nums[right]){
@@ -26,17 +34,7 @@ public:
         for(int i=low;i<=high;i++){
             nums[i]=temp[i-low];
         }
-    }
-    int countpairs(vector<int>& nums,int low,int mid,int high){
-       int left=low;
-       int right=mid+1;
-       int cnt=0;
-       for(int i=low;i<=mid;i++){
-          while(right<=high && nums[i]>1LL*2*nums[right]) right++;
-
-          cnt+=right-(mid+1);
-       }
-       return cnt;
+        return cnt;
     }
     int ms(vector<int>& nums,int low,int high){
        if(low==high) return 0;
@@ -44,8 +42,8 @@ public:
        int cnt=0;
        cnt+=ms(nums,low,mid);
        cnt+=ms(nums,mid+1,high);
-       cnt+=countpairs(nums,low,mid,high);
-       merge(nums,low,mid,high);  
+       cnt+=merge(nums,low,mid,high);
+       //merge(nums,low,mid,high);  
        return cnt;
     }
     int reversePairs(vector<int>& nums) {
