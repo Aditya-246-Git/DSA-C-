@@ -130,6 +130,7 @@
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -179,6 +180,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
