@@ -4,7 +4,7 @@ public:
         int n=s.size();
         int m=t.size();
         if(n!=m) return false;
-        int freq[26]={0};
+        vector<int> freq(26,0);
         for(int i=0;i<n;i++){
             freq[s[i]-'a']++;
             freq[t[i]-'a']--;
