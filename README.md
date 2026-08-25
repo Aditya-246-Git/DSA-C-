@@ -57,6 +57,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -121,6 +122,7 @@
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1903-largest-odd-number-in-string) |
