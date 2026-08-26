@@ -4,14 +4,16 @@ public:
         int n=s.size();
         int sum=0;
         for(int i=0;i<n;i++){
-            unordered_map<char,int> mp;
+            int freq[26]={0};
             for(int j=i;j<n;j++){
-                mp[s[j]]++;
+                freq[s[j]-'a']++;
                 int mini=INT_MAX;
                 int maxi=INT_MIN;
-                for(auto a:mp){
-                   mini=min(mini,a.second);
-                   maxi=max(maxi,a.second);
+                for(auto a:freq){
+                  if(a>0){
+                     mini=min(mini,a);
+                     maxi=max(maxi,a);
+                  }
                 }
                 sum+=maxi-mini;
             }
