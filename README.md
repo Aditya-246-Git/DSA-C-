@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
