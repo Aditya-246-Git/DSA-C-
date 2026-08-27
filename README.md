@@ -277,4 +277,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
