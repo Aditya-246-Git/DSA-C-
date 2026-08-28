@@ -141,6 +141,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -281,4 +282,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
