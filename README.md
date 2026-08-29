@@ -137,6 +137,7 @@
 | [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0075-sort-colors) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0206-reverse-linked-list) |
