@@ -22,7 +22,7 @@ public:
         int l2=calclen(headB);
         if(l2>l1) return getIntersectionNode(headB,headA);
         int comlen=l1-l2;
-        ListNode * temp1=headA;
+        ListNode *temp1=headA;
         while(comlen>0){
             temp1=temp1->next;
             comlen--;
