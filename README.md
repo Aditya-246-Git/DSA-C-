@@ -203,6 +203,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0151-reverse-words-in-a-string) |
