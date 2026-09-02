@@ -63,6 +63,7 @@
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -132,6 +133,7 @@
 | [0088-merge-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -209,6 +212,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -321,4 +325,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
