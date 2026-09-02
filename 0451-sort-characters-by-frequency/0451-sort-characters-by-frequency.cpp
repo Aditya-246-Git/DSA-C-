@@ -1,3 +1,6 @@
+bool comp(pair<int,char> a, pair<int,char> b){
+            return a.first > b.first;
+        }
 class Solution {
 public:
     string frequencySort(string s) {
@@ -11,9 +14,7 @@ public:
                 v.push_back({freq[i], (char)i});
             }
         }
-        sort(v.begin(), v.end(), [](auto &a, auto &b) {
-            return a.first > b.first;
-        });
+        sort(v.begin(), v.end(), comp);
         string ans = "";
         for(auto &p : v) {
             ans += string(p.first, p.second);
