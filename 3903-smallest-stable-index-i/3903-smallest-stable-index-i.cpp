@@ -2,7 +2,6 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int prevmax=INT_MIN;
-        int ind=INT_MIN;
         int n=nums.size();
         for(int i=0;i<n;i++){
            prevmax=max(prevmax,nums[i]);
