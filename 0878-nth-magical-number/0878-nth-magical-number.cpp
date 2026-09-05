@@ -2,7 +2,7 @@ class Solution {
 public:
     int mod=1e9+7;
     int nthMagicalNumber(int n, int a, int b) {
-        long long low=1LL;
+        long long low=1;
         long long high=1LL*n*min(a,b);
         long long lcm = 1LL*a/gcd(a,b)*b;
         while(low<=high){
