@@ -51,6 +51,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
