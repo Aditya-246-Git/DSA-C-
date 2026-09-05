@@ -79,6 +79,7 @@
 | [0048-rotate-image](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0189-rotate-array) |
+| [0878-nth-magical-number](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0878-nth-magical-number) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1903-largest-odd-number-in-string) |
@@ -263,6 +264,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0878-nth-magical-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -339,4 +341,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
