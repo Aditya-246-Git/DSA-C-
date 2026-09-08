@@ -1,9 +1,6 @@
 class Solution {
 public:
     int countCommas(int n) {
-        string s=to_string(n);
-        int l=s.size();
-        if(l<4) return 0;
-        return n-999;
+        return max(n - 999, 0); 
     }
 };
