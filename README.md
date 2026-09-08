@@ -84,6 +84,7 @@
 | [1510-stone-game-iv](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Aditya-246-Git/DSA-C-/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
