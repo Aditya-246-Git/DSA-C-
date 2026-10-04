@@ -100,6 +100,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -211,6 +212,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -223,6 +225,7 @@
 | [0205-isomorphic-strings](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -234,6 +237,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -298,6 +302,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aditya-246-Git/DSA-C-/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-246-Git/DSA-C-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
